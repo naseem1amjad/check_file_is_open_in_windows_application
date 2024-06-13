@@ -13,3 +13,7 @@ The following DOC or DOCX files are open in another application: <br>
 File: C:\Docs\MyDoc.docx <br>
 Opened by: C:\Program Files\Microsoft Office\Office\WINWORD.EXE <br>
 <br>
+
+<br>
+<br>
+Script developed by Naseem Amjad (urdujini@gmail.com)
