@@ -1,4 +1,5 @@
 #dated 2023-07-13 , Working fine with given paths (modified for WordPad)
+#Script developed by Naseem Amjad (urdujini@gmail.com)
 import win32gui
 import win32process
 import win32api
